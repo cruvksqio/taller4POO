@@ -3,7 +3,6 @@ package presentacion;
 //src/presentation/MenuManager.java
 
 import dominio.*;
-import logica.*;
 import java.util.Scanner;
 
 public class MenuManager {

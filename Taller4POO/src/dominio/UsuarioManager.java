@@ -4,8 +4,12 @@ import java.io.*;
 import java.util.*;
 
 public class UsuarioManager {
- private List<Usuario> usuarios; // List en vez de Map
- 
+ private List<Usuario> usuarios;
+
+ getTodosUsuarios() {
+        return usuarios;
+    }
+
  public UsuarioManager() {
      usuarios = new ArrayList<>();
  }
