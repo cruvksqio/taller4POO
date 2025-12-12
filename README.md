@@ -94,6 +94,9 @@ Git / GitHub
 👨‍💻 Autores
 
 Nombre: Fernando Lagos y Constantino Bekios
+
 Asignatura: Programasion orientada a objetos
+
 Institución: Universidad catolica del norte
+
 Fecha: 12/12/2025
