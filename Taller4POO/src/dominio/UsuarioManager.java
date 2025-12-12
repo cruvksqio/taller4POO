@@ -1,11 +1,5 @@
-package logica;
+package dominio;
 
-/* Constantino Demostenes Bekios Canales - 21761616-6 - cruvksqio
-Fernando Lagos Barahona - 22060830-1 - elthefa */
-
-
-
-import dominio.*;
 import java.io.*;
 import java.util.*;
 

@@ -1,7 +1,5 @@
 package dominio;
 
-import logica.*;
-
 public class SistemaCertificaciones {
  private static SistemaCertificaciones instance;
  

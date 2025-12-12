@@ -1,7 +1,6 @@
-package logica;
+package dominio;
 
 
-import dominio.*;
 import java.io.*;
 import java.util.*;
 
