@@ -7,14 +7,14 @@ import java.util.*;
 public class UsuarioManagerUI {
  private List<Usuario> usuarios;
  
- public UsuarioManager() {
+ public void UsuarioManager() {
      usuarios = new ArrayList<>();
  }
  
  // Método para obtener todos los usuarios (agregar esto)
  public List<Usuario> getTodosUsuarios() {
-     return new ArrayList<>(usuarios);
- }
+	    return usuarios;
+	}
  
  // Método para obtener estudiante por RUT
  public Estudiante getEstudiantePorRut(String rut) {

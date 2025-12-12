@@ -6,7 +6,7 @@ import java.util.*;
 public class UsuarioManager {
  private List<Usuario> usuarios;
 
- getTodosUsuarios() {
+ public List<Usuario> getTodosUsuarios() {
         return usuarios;
     }
 

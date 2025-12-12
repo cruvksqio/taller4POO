@@ -196,6 +196,8 @@ public class SistemaCertificacionesGUI extends JFrame {
             modelo = new DefaultTableModel(
                     new String[]{"Certificación", "Activos", "Completados", "Suspendidos", "Total"}, 0);
 
+            JTable tabla = new JTable(modelo);  // <-- AQUI se declara
+
             JButton stats = new JButton("Ver estadísticas");
             stats.addActionListener(e -> cargarStats());
 
